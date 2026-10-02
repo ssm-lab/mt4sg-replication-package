@@ -12,7 +12,7 @@ Our work demonstrates how model-driven engineering can bring structure, efficien
 ## Content description
 - `01-configurations` - Contains the CARLA configuration artifacts for the experiments. Use them for replication.
 - `02-data` - Contains simulation data obtained from CARLA using the configuration artifacts. Use them for reproduction.
-- `03-scripts` - Contains Python analysis scripts to obtain the results in the 04-results folder.
+- `03-analysis` - Contains Python analysis scripts to obtain the results in the 04-results folder.
 - `04-results`- Contains the data, plots and visualization that are used in the publication.
 
 ## Setup
