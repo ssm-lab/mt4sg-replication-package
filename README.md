@@ -111,8 +111,6 @@ The simulation runs are controlled by `01-configurations/evaluation.json`:
 | `external_min_gap_m` | Smallest distance between 2 external vehicles in a lane, centre to centre |
 | `external_speed_spread` | Largest relative difference between the speed of an external vehicle's lane and the ego vehicle's target speed |
 
-> **To run other scenarios**, save them from the CARLA Scenario Editor (schema version 3) into `01-configurations` and add them to `scenarios`. The scenario has to take place on a straight road. External vehicles are placed in the lanes the scenario doesn't use.
-
 ### Step 1: Simulation runs
 
 ```powershell
@@ -125,10 +123,6 @@ For each scenario, external vehicle count, seed, and strategy, this will:
 2. Play the scenario file in CARLA with `mt4sg\carla\src\scenario_evaluation.py`, which places the external vehicles for the seed and sends a scene update every 50 ms
 3. Check that the analysis pipeline measured every scene update sent
 4. Save the measurements and scene updates to `02-data`
-
-> A run is invalid if a vehicle of the scenario is more than 0.5 km/h off its speed when the first step changes, an external vehicle fails to spawn, a vehicle of the scenario collides, an external vehicle enters a lane of the scenario, or the run reaches the 12 s timeout. The script then runs the next seed, until each scenario and external vehicle count has 6 valid runs. In `02-data`, the seeds 1 to 6 gave a valid run for every scenario and external vehicle count.
->
-> The script resumes where it stopped. The 120 runs take about 45 minutes.
 
 ### Reproducibility
 
