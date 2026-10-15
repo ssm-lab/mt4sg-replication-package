@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "name": "paper_lead_brake_town06",
+  "map": "Town06",
+  "timeout_s": 120.0,
+  "criteria": {
+    "collision_test": true
+  },
+  "ego": {
+    "model": "vehicle.lincoln.mkz_2020",
+    "spawn": {
+      "point": [
+        250.0,
+        143.95
+      ],
+      "yaw_deg": 0.23
+    },
+    "path": {
+      "frame": "world",
+      "points": [
+        [
+          254.99,
+          144.53
+        ],
+        [
+          480.0,
+          144.53
+        ]
+      ]
+    },
+    "target_speed_ms": 16.67,
+    "driver": "defensive",
+    "safety": "rss",
+    "occlusion": {
+      "a_brake": 6,
+      "response_time_s": 0.2,
+      "margin_m": 0.5
+    }
+  },
+  "vehicles": [
+    {
+      "id": "other1",
+      "model": "vehicle.dodge.charger_2020",
+      "spawn": {
+        "point": [
+          289.95,
+          144.12
+        ],
+        "yaw_deg": 0.23
+      },
+      "steps": [
+        {
+          "action": {
+            "type": "keep_velocity",
+            "speed_ms": 16.67
+          },
+          "name": "cruise",
+          "wait_for": null,
+          "until": {
+            "type": "timer",
+            "duration_s": 4
+          }
+        },
+        {
+          "action": {
+            "type": "stop",
+            "brake": 1
+          },
+          "name": "hard brake",
+          "wait_for": null,
+          "until": null
+        }
+      ]
+    }
+  ],
+  "paths": {}
+}
