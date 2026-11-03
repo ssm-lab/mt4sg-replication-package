@@ -1,0 +1,785 @@
+scenario,external,strategy,component,samples
+A,10,incremental,EMF,5
+A,10,incremental,Other,2
+A,10,incremental,Rete network,176
+A,10,incremental,Rule actions,1
+A,10,incremental,VIATRA Base,2
+A,10,incremental,EMF,1
+A,10,incremental,Other,1
+A,10,incremental,Rete network,178
+A,10,incremental,Rule actions,1
+A,10,incremental,VIATRA Base,2
+A,10,incremental,EMF,6
+A,10,incremental,EVM,1
+A,10,incremental,Other,4
+A,10,incremental,Rete network,209
+A,10,incremental,VIATRA Base,2
+A,10,incremental,EMF,1
+A,10,incremental,Other,3
+A,10,incremental,Rete network,174
+A,10,incremental,EMF,4
+A,10,incremental,Other,3
+A,10,incremental,Rete network,157
+A,10,incremental,VIATRA Base,1
+A,10,incremental,EMF,3
+A,10,incremental,Other,4
+A,10,incremental,Rete network,159
+A,10,incremental,VIATRA Base,2
+A,2,incremental,EMF,4
+A,2,incremental,Rete network,46
+A,2,incremental,EMF,3
+A,2,incremental,Other,1
+A,2,incremental,Rete network,46
+A,2,incremental,VIATRA Base,1
+A,2,incremental,EMF,3
+A,2,incremental,Other,4
+A,2,incremental,Rete network,37
+A,2,incremental,VIATRA Base,1
+A,2,incremental,EMF,5
+A,2,incremental,Other,1
+A,2,incremental,Rete network,44
+A,2,incremental,Rule actions,1
+A,2,incremental,EMF,3
+A,2,incremental,Other,1
+A,2,incremental,Rete network,52
+A,2,incremental,Rule actions,1
+A,2,incremental,EMF,3
+A,2,incremental,Other,2
+A,2,incremental,Rete network,44
+A,2,incremental,VIATRA Base,2
+A,20,incremental,EMF,6
+A,20,incremental,Other,5
+A,20,incremental,Rete network,442
+A,20,incremental,VIATRA Base,3
+A,20,incremental,EMF,8
+A,20,incremental,EVM,2
+A,20,incremental,Other,4
+A,20,incremental,Rete network,447
+A,20,incremental,VIATRA Base,2
+A,20,incremental,EMF,7
+A,20,incremental,EVM,2
+A,20,incremental,Other,4
+A,20,incremental,Rete network,480
+A,20,incremental,Rule actions,1
+A,20,incremental,VIATRA Base,3
+A,20,incremental,EMF,8
+A,20,incremental,EVM,1
+A,20,incremental,Rete network,439
+A,20,incremental,Rule actions,2
+A,20,incremental,VIATRA Base,1
+A,20,incremental,EMF,6
+A,20,incremental,EVM,2
+A,20,incremental,Other,3
+A,20,incremental,Rete network,420
+A,20,incremental,VIATRA Base,2
+A,20,incremental,EMF,9
+A,20,incremental,EVM,1
+A,20,incremental,Other,2
+A,20,incremental,Rete network,459
+A,20,incremental,VIATRA Base,2
+A,30,incremental,EMF,10
+A,30,incremental,EVM,1
+A,30,incremental,Other,2
+A,30,incremental,Rete network,764
+A,30,incremental,Rule actions,1
+A,30,incremental,VIATRA Base,2
+A,30,incremental,EMF,5
+A,30,incremental,Other,2
+A,30,incremental,Rete network,806
+A,30,incremental,Rule actions,3
+A,30,incremental,VIATRA Base,3
+A,30,incremental,EMF,10
+A,30,incremental,EVM,1
+A,30,incremental,Other,3
+A,30,incremental,Rete network,792
+A,30,incremental,VIATRA Base,1
+A,30,incremental,EMF,8
+A,30,incremental,Other,1
+A,30,incremental,Rete network,820
+A,30,incremental,Rule actions,1
+A,30,incremental,VIATRA Base,1
+A,30,incremental,EMF,8
+A,30,incremental,Other,2
+A,30,incremental,Rete network,838
+A,30,incremental,Rule actions,1
+A,30,incremental,EMF,9
+A,30,incremental,Other,2
+A,30,incremental,Rete network,726
+A,30,incremental,VIATRA Base,5
+A,40,incremental,EMF,14
+A,40,incremental,EVM,1
+A,40,incremental,Other,3
+A,40,incremental,Rete network,1286
+A,40,incremental,Rule actions,3
+A,40,incremental,VIATRA Base,5
+A,40,incremental,EMF,16
+A,40,incremental,EVM,1
+A,40,incremental,Other,4
+A,40,incremental,Rete network,1252
+A,40,incremental,Rule actions,3
+A,40,incremental,VIATRA Base,2
+A,40,incremental,EMF,12
+A,40,incremental,EVM,1
+A,40,incremental,Other,1
+A,40,incremental,Rete network,1337
+A,40,incremental,Rule actions,4
+A,40,incremental,VIATRA Base,1
+A,40,incremental,EMF,17
+A,40,incremental,EVM,1
+A,40,incremental,Other,6
+A,40,incremental,Rete network,1265
+A,40,incremental,Rule actions,3
+A,40,incremental,VIATRA Base,5
+A,40,incremental,EMF,12
+A,40,incremental,EVM,1
+A,40,incremental,Other,3
+A,40,incremental,Rete network,1187
+A,40,incremental,Rule actions,1
+A,40,incremental,VIATRA Base,2
+A,40,incremental,EMF,20
+A,40,incremental,EVM,1
+A,40,incremental,Other,1
+A,40,incremental,Rete network,1278
+A,40,incremental,Rule actions,3
+A,40,incremental,VIATRA Base,2
+A,45,incremental,EMF,17
+A,45,incremental,Other,3
+A,45,incremental,Rete network,1408
+A,45,incremental,Rule actions,7
+A,45,incremental,VIATRA Base,3
+A,45,incremental,EMF,20
+A,45,incremental,EVM,1
+A,45,incremental,Other,1
+A,45,incremental,Rete network,1311
+A,45,incremental,Rule actions,6
+A,45,incremental,VIATRA Base,2
+A,45,incremental,EMF,26
+A,45,incremental,EVM,3
+A,45,incremental,Rete network,1493
+A,45,incremental,Rule actions,7
+A,45,incremental,VIATRA Base,5
+A,45,incremental,EMF,15
+A,45,incremental,EVM,4
+A,45,incremental,Other,2
+A,45,incremental,Rete network,1401
+A,45,incremental,Rule actions,1
+A,45,incremental,VIATRA Base,5
+A,45,incremental,EMF,16
+A,45,incremental,EVM,1
+A,45,incremental,Other,4
+A,45,incremental,Rete network,1375
+A,45,incremental,Rule actions,3
+A,45,incremental,VIATRA Base,6
+A,45,incremental,EMF,26
+A,45,incremental,EVM,3
+A,45,incremental,Other,3
+A,45,incremental,Rete network,1416
+A,45,incremental,Rule actions,1
+A,45,incremental,VIATRA Base,1
+A,5,incremental,EMF,11
+A,5,incremental,Other,2
+A,5,incremental,Rete network,91
+A,5,incremental,EMF,2
+A,5,incremental,Other,4
+A,5,incremental,Rete network,94
+A,5,incremental,VIATRA Base,2
+A,5,incremental,EMF,6
+A,5,incremental,Other,5
+A,5,incremental,Rete network,91
+A,5,incremental,VIATRA Base,2
+A,5,incremental,EMF,7
+A,5,incremental,EVM,1
+A,5,incremental,Other,3
+A,5,incremental,Rete network,85
+A,5,incremental,VIATRA Base,1
+A,5,incremental,EMF,5
+A,5,incremental,EVM,1
+A,5,incremental,Other,1
+A,5,incremental,Rete network,70
+A,5,incremental,VIATRA Base,1
+A,5,incremental,EMF,2
+A,5,incremental,Other,2
+A,5,incremental,Rete network,96
+A,5,incremental,Rule actions,1
+A,10,batch-update,EMF,6
+A,10,batch-update,Other,1
+A,10,batch-update,Rete network,183
+A,10,batch-update,VIATRA Base,2
+A,10,batch,EMF,31
+A,10,batch,EVM,14
+A,10,batch,Other,3
+A,10,batch,Rete network,393
+A,10,batch,Rule actions,77
+A,10,batch,VIATRA Base,102
+A,10,batch-update,EMF,2
+A,10,batch-update,EVM,1
+A,10,batch-update,Rete network,155
+A,10,batch-update,VIATRA Base,1
+A,10,batch,EMF,30
+A,10,batch,EVM,14
+A,10,batch,Other,2
+A,10,batch,Rete network,371
+A,10,batch,Rule actions,75
+A,10,batch,VIATRA Base,110
+A,10,batch-update,EMF,5
+A,10,batch-update,EVM,2
+A,10,batch-update,Other,1
+A,10,batch-update,Rete network,134
+A,10,batch-update,Rule actions,1
+A,10,batch-update,VIATRA Base,5
+A,10,batch,EMF,40
+A,10,batch,EVM,18
+A,10,batch,Other,1
+A,10,batch,Rete network,421
+A,10,batch,Rule actions,76
+A,10,batch,VIATRA Base,101
+A,10,batch-update,EMF,5
+A,10,batch-update,Other,1
+A,10,batch-update,Rete network,176
+A,10,batch-update,VIATRA Base,4
+A,10,batch,EMF,35
+A,10,batch,EVM,12
+A,10,batch,Other,3
+A,10,batch,Rete network,414
+A,10,batch,Rule actions,70
+A,10,batch,VIATRA Base,89
+A,10,batch-update,EMF,4
+A,10,batch-update,Rete network,170
+A,10,batch,EMF,30
+A,10,batch,EVM,15
+A,10,batch,Other,2
+A,10,batch,Rete network,373
+A,10,batch,Rule actions,79
+A,10,batch,VIATRA Base,96
+A,10,batch-update,EMF,2
+A,10,batch-update,EVM,2
+A,10,batch-update,Other,1
+A,10,batch-update,Rete network,164
+A,10,batch-update,VIATRA Base,2
+A,10,batch,EMF,36
+A,10,batch,EVM,10
+A,10,batch,Other,2
+A,10,batch,Rete network,373
+A,10,batch,Rule actions,65
+A,10,batch,VIATRA Base,80
+A,2,batch-update,EMF,6
+A,2,batch-update,Other,2
+A,2,batch-update,Rete network,46
+A,2,batch-update,VIATRA Base,1
+A,2,batch,EMF,27
+A,2,batch,EVM,1
+A,2,batch,Other,7
+A,2,batch,Rete network,287
+A,2,batch,Rule actions,63
+A,2,batch,VIATRA Base,87
+A,2,batch-update,EMF,3
+A,2,batch-update,EVM,4
+A,2,batch-update,Other,3
+A,2,batch-update,Rete network,47
+A,2,batch,EMF,17
+A,2,batch,EVM,1
+A,2,batch,Other,1
+A,2,batch,Rete network,296
+A,2,batch,Rule actions,68
+A,2,batch,VIATRA Base,79
+A,2,batch-update,EVM,1
+A,2,batch-update,Rete network,49
+A,2,batch-update,Rule actions,1
+A,2,batch-update,VIATRA Base,1
+A,2,batch,EMF,28
+A,2,batch,EVM,5
+A,2,batch,Other,4
+A,2,batch,Rete network,258
+A,2,batch,Rule actions,65
+A,2,batch,VIATRA Base,85
+A,2,batch-update,EVM,1
+A,2,batch-update,Other,3
+A,2,batch-update,Rete network,63
+A,2,batch-update,VIATRA Base,1
+A,2,batch,EMF,29
+A,2,batch,EVM,1
+A,2,batch,Other,2
+A,2,batch,Rete network,302
+A,2,batch,Rule actions,73
+A,2,batch,VIATRA Base,97
+A,2,batch-update,EMF,5
+A,2,batch-update,EVM,1
+A,2,batch-update,Other,4
+A,2,batch-update,Rete network,59
+A,2,batch-update,Rule actions,3
+A,2,batch-update,VIATRA Base,3
+A,2,batch,EMF,27
+A,2,batch,EVM,5
+A,2,batch,Other,2
+A,2,batch,Rete network,271
+A,2,batch,Rule actions,69
+A,2,batch,VIATRA Base,68
+A,2,batch-update,EMF,4
+A,2,batch-update,EVM,1
+A,2,batch-update,Other,1
+A,2,batch-update,Rete network,60
+A,2,batch-update,Rule actions,1
+A,2,batch,EMF,26
+A,2,batch,EVM,3
+A,2,batch,Other,1
+A,2,batch,Rete network,253
+A,2,batch,Rule actions,74
+A,2,batch,VIATRA Base,90
+A,20,batch-update,EMF,4
+A,20,batch-update,EVM,4
+A,20,batch-update,Other,1
+A,20,batch-update,Rete network,478
+A,20,batch-update,VIATRA Base,3
+A,20,batch,EMF,53
+A,20,batch,EVM,49
+A,20,batch,Other,2
+A,20,batch,Rete network,620
+A,20,batch,Rule actions,74
+A,20,batch,VIATRA Base,133
+A,20,batch-update,EMF,4
+A,20,batch-update,EVM,1
+A,20,batch-update,Other,7
+A,20,batch-update,Rete network,495
+A,20,batch,EMF,61
+A,20,batch,EVM,38
+A,20,batch,Other,8
+A,20,batch,Rete network,650
+A,20,batch,Rule actions,78
+A,20,batch,VIATRA Base,143
+A,20,batch-update,EMF,3
+A,20,batch-update,EVM,3
+A,20,batch-update,Other,1
+A,20,batch-update,Rete network,423
+A,20,batch-update,Rule actions,1
+A,20,batch-update,VIATRA Base,4
+A,20,batch,EMF,53
+A,20,batch,EVM,41
+A,20,batch,Other,6
+A,20,batch,Rete network,607
+A,20,batch,Rule actions,76
+A,20,batch,VIATRA Base,134
+A,20,batch-update,EMF,4
+A,20,batch-update,EVM,2
+A,20,batch-update,Other,2
+A,20,batch-update,Rete network,461
+A,20,batch-update,VIATRA Base,1
+A,20,batch,EMF,60
+A,20,batch,EVM,42
+A,20,batch,Other,4
+A,20,batch,Rete network,632
+A,20,batch,Rule actions,56
+A,20,batch,VIATRA Base,118
+A,20,batch-update,EMF,5
+A,20,batch-update,EVM,1
+A,20,batch-update,Other,4
+A,20,batch-update,Rete network,426
+A,20,batch-update,Rule actions,1
+A,20,batch-update,VIATRA Base,1
+A,20,batch,EMF,51
+A,20,batch,EVM,38
+A,20,batch,Other,2
+A,20,batch,Rete network,658
+A,20,batch,Rule actions,73
+A,20,batch,VIATRA Base,137
+A,20,batch-update,EMF,7
+A,20,batch-update,EVM,2
+A,20,batch-update,Other,4
+A,20,batch-update,Rete network,449
+A,20,batch-update,VIATRA Base,4
+A,20,batch,EMF,66
+A,20,batch,EVM,36
+A,20,batch,Other,1
+A,20,batch,Rete network,611
+A,20,batch,Rule actions,80
+A,20,batch,VIATRA Base,143
+A,30,batch-update,EMF,6
+A,30,batch-update,EVM,1
+A,30,batch-update,Other,1
+A,30,batch-update,Rete network,757
+A,30,batch-update,Rule actions,1
+A,30,batch-update,VIATRA Base,2
+A,30,batch,EMF,89
+A,30,batch,EVM,103
+A,30,batch,Other,4
+A,30,batch,Rete network,1058
+A,30,batch,Rule actions,84
+A,30,batch,VIATRA Base,164
+A,30,batch-update,EMF,9
+A,30,batch-update,EVM,1
+A,30,batch-update,Other,4
+A,30,batch-update,Rete network,789
+A,30,batch-update,VIATRA Base,6
+A,30,batch,EMF,100
+A,30,batch,EVM,95
+A,30,batch,Other,3
+A,30,batch,Rete network,1044
+A,30,batch,Rule actions,88
+A,30,batch,VIATRA Base,168
+A,30,batch-update,EMF,11
+A,30,batch-update,EVM,1
+A,30,batch-update,Other,3
+A,30,batch-update,Rete network,798
+A,30,batch-update,VIATRA Base,5
+A,30,batch,EMF,100
+A,30,batch,EVM,105
+A,30,batch,Other,6
+A,30,batch,Rete network,1018
+A,30,batch,Rule actions,80
+A,30,batch,VIATRA Base,159
+A,30,batch-update,EMF,12
+A,30,batch-update,EVM,1
+A,30,batch-update,Other,1
+A,30,batch-update,Rete network,736
+A,30,batch-update,VIATRA Base,1
+A,30,batch,EMF,81
+A,30,batch,EVM,106
+A,30,batch,Other,2
+A,30,batch,Rete network,965
+A,30,batch,Rule actions,81
+A,30,batch,VIATRA Base,163
+A,30,batch-update,EMF,8
+A,30,batch-update,EVM,4
+A,30,batch-update,Other,1
+A,30,batch-update,Rete network,768
+A,30,batch-update,VIATRA Base,1
+A,30,batch,EMF,95
+A,30,batch,EVM,130
+A,30,batch,Other,3
+A,30,batch,Rete network,975
+A,30,batch,Rule actions,76
+A,30,batch,VIATRA Base,187
+A,30,batch-update,EMF,11
+A,30,batch-update,EVM,1
+A,30,batch-update,Other,1
+A,30,batch-update,Rete network,777
+A,30,batch-update,VIATRA Base,4
+A,30,batch,EMF,88
+A,30,batch,EVM,105
+A,30,batch,Other,3
+A,30,batch,Rete network,975
+A,30,batch,Rule actions,80
+A,30,batch,VIATRA Base,158
+A,40,batch-update,EMF,18
+A,40,batch-update,EVM,1
+A,40,batch-update,Other,3
+A,40,batch-update,Rete network,1274
+A,40,batch-update,Rule actions,3
+A,40,batch-update,VIATRA Base,1
+A,40,batch,EMF,136
+A,40,batch,EVM,243
+A,40,batch,Other,3
+A,40,batch,Rete network,1528
+A,40,batch,Rule actions,107
+A,40,batch,VIATRA Base,206
+A,40,batch-update,EMF,19
+A,40,batch-update,EVM,5
+A,40,batch-update,Rete network,1178
+A,40,batch-update,Rule actions,3
+A,40,batch-update,VIATRA Base,3
+A,40,batch,EMF,156
+A,40,batch,EVM,240
+A,40,batch,Other,3
+A,40,batch,Rete network,1608
+A,40,batch,Rule actions,115
+A,40,batch,VIATRA Base,226
+A,40,batch-update,EMF,20
+A,40,batch-update,EVM,5
+A,40,batch-update,Other,2
+A,40,batch-update,Rete network,1236
+A,40,batch-update,Rule actions,1
+A,40,batch-update,VIATRA Base,2
+A,40,batch,EMF,167
+A,40,batch,EVM,219
+A,40,batch,Other,4
+A,40,batch,Rete network,1588
+A,40,batch,Rule actions,103
+A,40,batch,VIATRA Base,226
+A,40,batch-update,EMF,10
+A,40,batch-update,EVM,2
+A,40,batch-update,Other,4
+A,40,batch-update,Rete network,1246
+A,40,batch-update,Rule actions,1
+A,40,batch-update,VIATRA Base,2
+A,40,batch,EMF,155
+A,40,batch,EVM,242
+A,40,batch,Other,3
+A,40,batch,Rete network,1527
+A,40,batch,Rule actions,99
+A,40,batch,VIATRA Base,214
+A,40,batch-update,EMF,15
+A,40,batch-update,EVM,2
+A,40,batch-update,Other,4
+A,40,batch-update,Rete network,1174
+A,40,batch-update,Rule actions,2
+A,40,batch-update,VIATRA Base,1
+A,40,batch,EMF,138
+A,40,batch,EVM,220
+A,40,batch,Other,1
+A,40,batch,Rete network,1563
+A,40,batch,Rule actions,107
+A,40,batch,VIATRA Base,223
+A,40,batch-update,EMF,17
+A,40,batch-update,EVM,5
+A,40,batch-update,Other,2
+A,40,batch-update,Rete network,1179
+A,40,batch-update,Rule actions,1
+A,40,batch-update,VIATRA Base,3
+A,40,batch,EMF,159
+A,40,batch,EVM,225
+A,40,batch,Other,3
+A,40,batch,Rete network,1592
+A,40,batch,Rule actions,107
+A,40,batch,VIATRA Base,244
+A,45,batch-update,EMF,17
+A,45,batch-update,EVM,5
+A,45,batch-update,Other,1
+A,45,batch-update,Rete network,1488
+A,45,batch-update,Rule actions,3
+A,45,batch-update,VIATRA Base,5
+A,45,batch,EMF,179
+A,45,batch,EVM,275
+A,45,batch,Other,4
+A,45,batch,Rete network,1901
+A,45,batch,Rule actions,108
+A,45,batch,VIATRA Base,270
+A,45,batch-update,EMF,18
+A,45,batch-update,EVM,4
+A,45,batch-update,Rete network,1368
+A,45,batch-update,Rule actions,4
+A,45,batch-update,VIATRA Base,1
+A,45,batch,EMF,173
+A,45,batch,EVM,276
+A,45,batch,Other,4
+A,45,batch,Rete network,1803
+A,45,batch,Rule actions,104
+A,45,batch,VIATRA Base,272
+A,45,batch-update,EMF,12
+A,45,batch-update,EVM,2
+A,45,batch-update,Other,1
+A,45,batch-update,Rete network,1337
+A,45,batch-update,Rule actions,2
+A,45,batch-update,VIATRA Base,4
+A,45,batch,EMF,177
+A,45,batch,EVM,303
+A,45,batch,Other,2
+A,45,batch,Rete network,1915
+A,45,batch,Rule actions,99
+A,45,batch,VIATRA Base,280
+A,45,batch-update,EMF,17
+A,45,batch-update,EVM,1
+A,45,batch-update,Other,3
+A,45,batch-update,Rete network,1491
+A,45,batch-update,Rule actions,1
+A,45,batch-update,VIATRA Base,2
+A,45,batch,EMF,184
+A,45,batch,EVM,301
+A,45,batch,Other,2
+A,45,batch,Rete network,1860
+A,45,batch,Rule actions,105
+A,45,batch,VIATRA Base,247
+A,45,batch-update,EMF,18
+A,45,batch-update,EVM,2
+A,45,batch-update,Other,6
+A,45,batch-update,Rete network,1453
+A,45,batch-update,Rule actions,3
+A,45,batch-update,VIATRA Base,2
+A,45,batch,EMF,188
+A,45,batch,EVM,329
+A,45,batch,Other,3
+A,45,batch,Rete network,1807
+A,45,batch,Rule actions,108
+A,45,batch,VIATRA Base,279
+A,45,batch-update,EMF,19
+A,45,batch-update,EVM,3
+A,45,batch-update,Other,1
+A,45,batch-update,Rete network,1356
+A,45,batch-update,Rule actions,2
+A,45,batch-update,VIATRA Base,1
+A,45,batch,EMF,205
+A,45,batch,EVM,306
+A,45,batch,Other,3
+A,45,batch,Rete network,1855
+A,45,batch,Rule actions,103
+A,45,batch,VIATRA Base,256
+A,5,batch-update,EMF,7
+A,5,batch-update,Other,3
+A,5,batch-update,Rete network,98
+A,5,batch-update,VIATRA Base,1
+A,5,batch,EMF,27
+A,5,batch,EVM,7
+A,5,batch,Other,1
+A,5,batch,Rete network,308
+A,5,batch,Rule actions,71
+A,5,batch,VIATRA Base,79
+A,5,batch-update,EMF,4
+A,5,batch-update,Other,2
+A,5,batch-update,Rete network,92
+A,5,batch,EMF,27
+A,5,batch,EVM,10
+A,5,batch,Other,4
+A,5,batch,Rete network,346
+A,5,batch,Rule actions,66
+A,5,batch,VIATRA Base,75
+A,5,batch-update,EMF,6
+A,5,batch-update,EVM,2
+A,5,batch-update,Other,2
+A,5,batch-update,Rete network,103
+A,5,batch-update,VIATRA Base,1
+A,5,batch,EMF,22
+A,5,batch,EVM,6
+A,5,batch,Other,4
+A,5,batch,Rete network,346
+A,5,batch,Rule actions,82
+A,5,batch,VIATRA Base,101
+A,5,batch-update,EMF,2
+A,5,batch-update,EVM,1
+A,5,batch-update,Rete network,99
+A,5,batch-update,VIATRA Base,1
+A,5,batch,EMF,19
+A,5,batch,EVM,7
+A,5,batch,Other,1
+A,5,batch,Rete network,289
+A,5,batch,Rule actions,54
+A,5,batch,VIATRA Base,73
+A,5,batch-update,EMF,3
+A,5,batch-update,EVM,1
+A,5,batch-update,Other,1
+A,5,batch-update,Rete network,83
+A,5,batch-update,VIATRA Base,1
+A,5,batch,EMF,29
+A,5,batch,EVM,3
+A,5,batch,Other,1
+A,5,batch,Rete network,301
+A,5,batch,Rule actions,80
+A,5,batch,VIATRA Base,93
+A,5,batch-update,EMF,10
+A,5,batch-update,Rete network,87
+A,5,batch,EMF,28
+A,5,batch,EVM,5
+A,5,batch,Other,2
+A,5,batch,Rete network,300
+A,5,batch,Rule actions,62
+A,5,batch,VIATRA Base,86
+A,10,java-traversal,EMF,3
+A,10,java-traversal,Java graph traversal,22
+A,10,java-traversal,Other,9
+A,10,java-traversal,EMF,9
+A,10,java-traversal,Java graph traversal,23
+A,10,java-traversal,Other,7
+A,10,java-traversal,EMF,7
+A,10,java-traversal,Java graph traversal,31
+A,10,java-traversal,Other,6
+A,10,java-traversal,EMF,3
+A,10,java-traversal,Java graph traversal,17
+A,10,java-traversal,Other,5
+A,10,java-traversal,EMF,9
+A,10,java-traversal,Java graph traversal,19
+A,10,java-traversal,Other,1
+A,10,java-traversal,EMF,7
+A,10,java-traversal,Java graph traversal,24
+A,10,java-traversal,Other,3
+A,2,java-traversal,EMF,5
+A,2,java-traversal,Java graph traversal,1
+A,2,java-traversal,Other,2
+A,2,java-traversal,EMF,3
+A,2,java-traversal,Other,3
+A,2,java-traversal,EMF,1
+A,2,java-traversal,Java graph traversal,1
+A,2,java-traversal,Other,3
+A,2,java-traversal,EMF,6
+A,2,java-traversal,Java graph traversal,1
+A,2,java-traversal,Other,3
+A,2,java-traversal,EMF,5
+A,2,java-traversal,Other,1
+A,2,java-traversal,EMF,7
+A,2,java-traversal,Java graph traversal,1
+A,2,java-traversal,Other,8
+A,20,java-traversal,EMF,5
+A,20,java-traversal,Java graph traversal,312
+A,20,java-traversal,Other,4
+A,20,java-traversal,EMF,3
+A,20,java-traversal,Java graph traversal,295
+A,20,java-traversal,Other,1
+A,20,java-traversal,EMF,9
+A,20,java-traversal,Java graph traversal,310
+A,20,java-traversal,Other,8
+A,20,java-traversal,EMF,4
+A,20,java-traversal,Java graph traversal,320
+A,20,java-traversal,Other,4
+A,20,java-traversal,EMF,4
+A,20,java-traversal,Java graph traversal,283
+A,20,java-traversal,Other,7
+A,20,java-traversal,EMF,4
+A,20,java-traversal,Java graph traversal,301
+A,20,java-traversal,Other,6
+A,30,java-traversal,EMF,6
+A,30,java-traversal,Java graph traversal,1610
+A,30,java-traversal,Other,7
+A,30,java-traversal,EMF,13
+A,30,java-traversal,Java graph traversal,1591
+A,30,java-traversal,Other,6
+A,30,java-traversal,EMF,14
+A,30,java-traversal,Java graph traversal,1603
+A,30,java-traversal,Other,6
+A,30,java-traversal,EMF,5
+A,30,java-traversal,Java graph traversal,1532
+A,30,java-traversal,Other,5
+A,30,java-traversal,EMF,6
+A,30,java-traversal,Java graph traversal,1522
+A,30,java-traversal,Other,5
+A,30,java-traversal,EMF,9
+A,30,java-traversal,Java graph traversal,1535
+A,30,java-traversal,Other,5
+A,40,java-traversal,EMF,12
+A,40,java-traversal,Java graph traversal,4676
+A,40,java-traversal,Other,11
+A,40,java-traversal,EMF,10
+A,40,java-traversal,Java graph traversal,4751
+A,40,java-traversal,Other,19
+A,40,java-traversal,EMF,18
+A,40,java-traversal,Java graph traversal,4748
+A,40,java-traversal,Other,11
+A,40,java-traversal,EMF,11
+A,40,java-traversal,Java graph traversal,4720
+A,40,java-traversal,Other,13
+A,40,java-traversal,EMF,19
+A,40,java-traversal,Java graph traversal,4442
+A,40,java-traversal,Other,8
+A,40,java-traversal,EMF,18
+A,40,java-traversal,Java graph traversal,4876
+A,40,java-traversal,Other,9
+A,45,java-traversal,EMF,30
+A,45,java-traversal,Java graph traversal,7511
+A,45,java-traversal,Other,7
+A,45,java-traversal,EMF,19
+A,45,java-traversal,Java graph traversal,7638
+A,45,java-traversal,Other,8
+A,45,java-traversal,EMF,15
+A,45,java-traversal,Java graph traversal,7476
+A,45,java-traversal,Other,7
+A,45,java-traversal,EMF,16
+A,45,java-traversal,Java graph traversal,7211
+A,45,java-traversal,Other,13
+A,45,java-traversal,EMF,17
+A,45,java-traversal,Java graph traversal,7167
+A,45,java-traversal,Other,6
+A,45,java-traversal,EMF,30
+A,45,java-traversal,Java graph traversal,7476
+A,45,java-traversal,Other,8
+A,5,java-traversal,EMF,6
+A,5,java-traversal,Java graph traversal,1
+A,5,java-traversal,Other,3
+A,5,java-traversal,EMF,2
+A,5,java-traversal,Java graph traversal,4
+A,5,java-traversal,Other,5
+A,5,java-traversal,EMF,6
+A,5,java-traversal,Java graph traversal,6
+A,5,java-traversal,Other,5
+A,5,java-traversal,EMF,5
+A,5,java-traversal,Java graph traversal,3
+A,5,java-traversal,Other,2
+A,5,java-traversal,EMF,4
+A,5,java-traversal,Java graph traversal,4
+A,5,java-traversal,Other,2
+A,5,java-traversal,EMF,9
+A,5,java-traversal,Other,6
