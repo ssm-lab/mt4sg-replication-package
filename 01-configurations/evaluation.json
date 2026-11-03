@@ -1,12 +1,12 @@
 {
-  "scene_rate_hz": 20,
+  "scene_rate_hz": 10,
   "scenarios": {
     "a": "paper_lead_brake_town06.json",
     "b": "paper_cut_in_town06.json"
   },
-  "external_vehicles": [2, 5, 10, 20, 40],
+  "external_vehicles": [2, 5, 10, 20, 30, 40, 45],
   "runs_per_count": 6,
-  "strategies": ["incremental", "batch"],
+  "strategies": ["incremental", "batch-update", "batch", "java-traversal"],
   "warmup_s": 2,
   "context_s": 2,
   "timeout_s": 12,
