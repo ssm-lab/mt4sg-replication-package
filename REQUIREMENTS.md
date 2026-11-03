@@ -15,12 +15,12 @@ The measurements in `02-data` were taken on an AMD Ryzen 9 7950X (16 cores, 32 t
 | CARLA | 0.9.16 |
 | Java | OpenJDK 21.0.4 (Temurin) |
 | Eclipse | Eclipse Modeling Tools 2025-06, with VIATRA 2.9.1 and EMF 2.39 |
-| mt4sg | [release v0.1.0](https://github.com/ryangowland1/mt4sg) |
-| Carla2Ecore | [release v0.1.0](https://github.com/ryangowland1/carla2ecore) |
+| mt4sg | v0.1.0 |
+| Carla2Ecore | v0.1.0 |
 | Python (CARLA client) | 3.12.10, with pyzmq 27.1.0 |
 | Python (analysis) | 3.10 or higher |
 
-The [mt4sg quick start](https://github.com/ryangowland1/mt4sg/blob/v0.1.0/QUICKSTART.md) installs CARLA, Eclipse, and the CARLA client. The measurements ran on the Java in this table, and the scripts run on the Java 21 that comes with Eclipse.
+`QUICKSTART.md` in mt4sg installs CARLA, Eclipse, and the CARLA client. The measurements ran on the Java in this table, and the scripts run on the Java 21 that comes with Eclipse.
 
 ## Python dependencies
 

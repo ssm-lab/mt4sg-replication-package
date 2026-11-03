@@ -10,7 +10,7 @@ Our work demonstrates how model-driven engineering can bring structure, efficien
 
 ## Quick start
 
-This repository holds the paper's data, experiments, and analysis. To use the tool itself rather than reproduce the paper, start at [MT4SG](https://github.com/ryangowland1/mt4sg).
+This repository holds the paper's data, experiments, and analysis. To use the tool itself rather than reproduce the paper, start at MT4SG.
 
 Pick what you want to do:
 
@@ -21,11 +21,10 @@ Pick what you want to do:
 | [Run all 336 simulations again](#step-2-simulation-runs) | The tool and CARLA | About 2 hours |
 | [Profile the recorded runs again](#step-3-profiling) | The tool | About 1 hour |
 
-To rebuild the tables and figures:
+To rebuild the tables and figures, clone this repository and run this from it:
 
 ```powershell
-git clone https://github.com/ssm-lab/mt4sg-replication-package
-cd mt4sg-replication-package\03-analysis
+cd 03-analysis
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
@@ -136,13 +135,8 @@ EMF code that the query engine runs for its own work goes to the query engine's 
 
 ### Setting up
 
-1. Follow steps 1 to 4 of the [mt4sg quick start](https://github.com/ryangowland1/mt4sg/blob/v0.1.0/QUICKSTART.md). They put [mt4sg](https://github.com/ryangowland1/mt4sg), [Carla2Ecore](https://github.com/ryangowland1/carla2ecore), CARLA, and Eclipse with VIATRA into a folder named `mt4sg-tools`.
-2. Clone this repository into the same folder:
-   ```powershell
-   cd mt4sg-tools
-   git clone https://github.com/ssm-lab/mt4sg-replication-package
-   ```
-   The scripts find everything else there:
+1. Follow steps 1 to 4 of `QUICKSTART.md` in mt4sg. They put mt4sg, Carla2Ecore, CARLA, and Eclipse with VIATRA into a folder named `mt4sg-tools`.
+2. Clone this repository into the same folder. The scripts find everything else there:
    ```
    mt4sg-tools\
        mt4sg\
