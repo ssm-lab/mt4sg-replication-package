@@ -147,7 +147,7 @@ EMF code that the query engine runs for its own work goes to the query engine's 
 3. In Eclipse, choose **File > Import > General > Existing Projects into Workspace**, pick `mt4sg-tools\mt4sg-replication-package`, and click **Finish**. This adds the project `ca.mcmaster.mt4sg.evaluation`, and Eclipse compiles it into its `bin` folder.
 
 For simulation runs, also:
-- Start CARLA with `mt4sg\carla\CARLA_0.9.16\CarlaUE4.exe -RenderOffScreen`. Rendering off screen keeps the CARLA window from loading the machine that measures the processing times.
+- Start CARLA with `mt4sg\carla\CARLA_0.9.16\CarlaUE4.exe -RenderOffScreen`. Rendering off screen keeps the CARLA window from loading the machine that measures the processing times. If you run into an out of video memory error when starting CARLA, add the `-dx11` flag to the command.
 - Switch Windows to the High performance power plan (`powercfg /setactive SCHEME_MIN`). On the Balanced plan, the processing times depend on Windows' power management.
 
 The scenario files run without the CARLA Scenario Editor installed.
